@@ -1,1 +1,1 @@
-<img src="https://www.home-assistant.io/state-of-the-open-home/"/>
+<img src="https://camo.githubusercontent.com/87282b66318b283090c9e5336f45bcd264b0260c773a9d828be82067e00a630e/68747470733a2f2f657370686f6d652e696f2f5f696d616765732f6c6f676f2d746578742e706e67"/>
