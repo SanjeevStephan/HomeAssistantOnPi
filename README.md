@@ -50,3 +50,7 @@ When you’re done, navigate back to the web interface and voila, your devices a
 * <a href="https://www.home-assistant.io/">Home Assistant</a>
 * <a href="https://esphome.io/">ESPHome</a>
 * <a href="https://espresense.com/">ESPresence</a>
+
+### SOURCES (Blogs)
+* <a href="https://randomnerdtutorials.com/getting-started-with-home-assistant-on-raspberry-pi/">Getting Started with Home Assistant on Raspberry Pi</a>
+* <a href=""></a>
