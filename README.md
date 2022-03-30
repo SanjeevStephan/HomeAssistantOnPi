@@ -36,4 +36,7 @@ We will need a few things to get started with installing Home Assistant.
 4) Click on Configuration in the sidebar on the left. On the next screen, click on Integrations. At this screen you will be able to set up integrations with Home Assistant. 
 5) You might frequently get notification about the “discovered” devices in the notification section. 
 6) Also Another section contains integrations that were found on your network and can easily be added with a few clicks. If your integrations are not discovered, click the + button in the lower right and search for your integration in that list.
+7) When each integration is done setting up, it will ask you to put the new devices in areas. Areas allow you to organize all the devices in your home.
+<img src="https://www.home-assistant.io/images/getting-started/integrations.png"/>
+When you’re done, navigate back to the web interface and voila, your devices are ready for you to control. | <a href="https://demo.home-assistant.io/#/lovelace/0">SEE MORE DASHBOARD DEMO</a>
  
