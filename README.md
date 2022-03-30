@@ -1,9 +1,9 @@
-# Getting Started with Home Assistant on Raspberry Pi (<a href="https://randomnerdtutorials.com/getting-started-with-home-assistant-on-raspberry-pi/">Full Guide</a>)
+# Getting Started with Home Assistant on Raspberry Pi (<a href="https://randomnerdtutorials.com/getting-started-with-home-assistant-on-raspberry-pi/" target="_blank">Full Guide</a>)
 I’ll show you how to set up Home Assistant and to build a simple example to get you started with home automation
 
 ### What is Home Assistant?
 <img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2017/09/home-assistant.png?resize=220%2C220&quality=100&strip=all&ssl=1" width="90px" height="90px">
-<a href="https://www.home-assistant.io/">Home Assistant</a> is an home automation hub. An home automation hub is a place where <a href="https://www.home-assistant.io/integrations/">different devices</a> with different protocols communicate with each other. 
+<a href="https://www.home-assistant.io/" target="_blank">Home Assistant</a> is an home automation hub. An home automation hub is a place where <a href="https://www.home-assistant.io/integrations/" target="_blank">different devices</a> with different protocols communicate with each other. 
 Home Assistant is the biggest open-source home automation platform to date and it supports 895 different components.
 
 ### Installing and Setting Up Home Assistant
@@ -28,4 +28,4 @@ We will need a few things to get started with installing Home Assistant.
 8) Be patient, the installation takes about 20 minutes (or more) to download all dependencies it needs for Home Assistant. While it is being installed, you’ll see the following on your browser window. Note: sometimes the screen below doesn’t load, but the installation is still continuing in the background. Let it complete the installation.
 <img src="https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2017/09/home-assistant-installation-wait.jpg?w=233&quality=100&strip=all&ssl=1"/>
 9) Once it’s done, your Raspberry Pi will auto reboot, so you have to wait another 3 minutes. Then, refresh your web page and you should see the Home Assistant user interface default view. 
-10) Explore the <a href="https://demo.home-assistant.io/#/lovelace/0"> Demo from home-assistant-community</a> Navigate through each tab and explore what’s inside.  
+10) Explore the <a href="https://demo.home-assistant.io/#/lovelace/0" target="_blank"> Demo from home-assistant-community</a> Navigate through each tab and explore what’s inside.  
