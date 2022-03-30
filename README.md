@@ -16,3 +16,10 @@ We will need a few things to get started with installing Home Assistant.
 * Micro SD Card. Ideally get one that is Application Class 2 as they handle small I/O much more consistently than cards not optimized to host applications. A 32 GB or bigger card is recommended.
 * SD Card reader. This is already part of most laptops, but you can purchase a standalone USB adapter if you don’t have one. The brand doesn’t matter, just pick the cheapest.
 * Ethernet cable. Required for installation. After installation, Home Assistant can work with Wi-Fi, but an Ethernet connection is more reliable and highly recommended.
+
+#### DOWNLOAD HASS.IO OS & INSTALL
+
+1) Go to https://www.home-assistant.io/installation/raspberrypi and chose the appropriate image for your Raspberry Pi. We recommend using Raspberry Pi 3. Click on the Raspberry Pi 3 link to download the Hass.io image to your computer.
+2) Go to https://etcher.io/ and install Etcher on your computer.
+3) When the installation is done, open Etcher and click on Select image you’ve just downloaded from <a href=" https://www.home-assistant.io/installation/raspberrypi">home-assistant.io</a>
+4) Make sure Etcher selects the right SD card. Then, click Flash! Note: you need to have your SD card formatted before doing this step. Wait a few minutes while Etcher flashes the image on the SD card.
