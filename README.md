@@ -29,8 +29,11 @@ We will need a few things to get started with installing Home Assistant.
 9) Once it’s done, your Raspberry Pi will auto reboot, so you have to wait another 3 minutes. Then, refresh your web page and you should see the Home Assistant create new user account interface 
 10) Explore the <a href="https://demo.home-assistant.io/#/lovelace/0" target="_blank"> Demo from home-assistant-community</a> Navigate through each tab and explore what’s inside.
 
-#### Configuring Home Assistant
+#### CONFIGURING THE HOME ASSISTANT
 1) Alright, you made it here. The tough part is done. With Home Assistant installed, it’s time to configure it. Here you will create the owner account of Home Assistant. This account will be an administrator and will always be able to change everything. Enter a name, username, password and click on “create account”.       <img src="https://www.home-assistant.io/images/getting-started/username.png"/>
 2) Once you are done, click Next. In this screen, Home Assistant will show any devices that it has discovered on your network.if you see fewer items than what is shown below; you can always manually add devices later <img src="https://www.home-assistant.io/images/getting-started/devices.png"/>
-3) Finally, click Finish. Now you’re brought to the Home Assistant web interface. This screen will show all of your devices. So let’s get that screen filled up!
- <img src="https://www.home-assistant.io/images/getting-started/lovelace.png"/>
+3) Finally, click Finish. Now you’re brought to the Home Assistant web interface. This screen will show all of your devices. So let’s get that screen filled up! <img src="https://www.home-assistant.io/images/getting-started/lovelace.png"/>
+4) Click on Configuration in the sidebar on the left. On the next screen, click on Integrations. At this screen you will be able to set up integrations with Home Assistant. 
+5) You might frequently get notification about the “discovered” devices in the notification section. 
+6) Also Another section contains integrations that were found on your network and can easily be added with a few clicks. If your integrations are not discovered, click the + button in the lower right and search for your integration in that list.
+ 
