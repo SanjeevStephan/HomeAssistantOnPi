@@ -56,7 +56,7 @@ When you’re done, navigate back to the web interface and voila, your devices a
 * <a href=""></a>
 
 ### DOWNLOAD
-* <a href="https://github.com/home-assistant/operating-system/releases/">Get the Image URL ( haos_rpi3-64-7.6.img.xz )</a>
+* <a href="https://github.com/home-assistant/operating-system/releases/">Get the Image URL from Github</a> | <a href="https://github.com/home-assistant/operating-system/releases/download/7.6/haos_rpi3-64-7.6.img.xz">haos_rpi3-64-7.6.img.xz )</a>
 * <a href="https://www.balena.io/etcher/">balenaEtcher</a>
 * <a href="https://www.advanced-ip-scanner.com/download/">Advanced IP Scanner</a>
 * 
