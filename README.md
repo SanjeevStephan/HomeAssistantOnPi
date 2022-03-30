@@ -45,3 +45,7 @@ When you’re done, navigate back to the web interface and voila, your devices a
 * Configuring the Home-Assistant configuration.yaml file
 * Setting ESP32/ESP8266 NodeMCUs using ESPHome
 * 
+### SOURCES (Official Website)
+* <a href="https://www.home-assistant.io/">Home Assistant</a>
+* <a href="https://esphome.io/">ESPHome</a>
+* <a href="https://espresense.com/">ESPresence</a>
