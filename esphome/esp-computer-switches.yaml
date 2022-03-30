@@ -1,0 +1,76 @@
+esphome:
+  name: esp-computer-switches
+
+esp8266:
+  board: nodemcuv2
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+
+ota:
+  password: "8f511fe0ee57644ee498dd49c593793a"
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Esp-Computer-Switches"
+    password: "1JAJ87ybMJmC"
+
+captive_portal:
+
+
+output:
+ # - platform: gpio
+ #   id: "esp_indicator_one"
+ #   pin: D4   
+ #   inverted: true 
+ 
+  - platform: gpio
+    id: "esp_relay_one"
+    pin: D5
+    inverted: true
+    
+  - platform: gpio
+    id: "esp_relay_two"
+    pin: D6
+    inverted: true
+    
+  - platform: gpio
+    id: "esp_relay_three"
+    pin: D7
+    inverted: true
+    
+  - platform: gpio
+    id: "esp_relay_four"
+    pin: D8   
+    inverted: true
+    
+     
+light:
+  #- platform: binary
+  #  output: "esp_indicator_one"
+  #  name: "Mom Bedroom ESP Indicator"   
+
+  - platform: binary
+    output: "esp_relay_one"
+    name: "Computer Switch 1"          
+    
+  - platform: binary
+    output: "esp_relay_two"
+    name: "Computer Switch 2"  
+
+  - platform: binary
+    output: "esp_relay_three"
+    name: "Computer Switch 3"          
+
+  - platform: binary
+    output: "esp_relay_four"
+    name: "Computer Switch 4"  
+     
+
