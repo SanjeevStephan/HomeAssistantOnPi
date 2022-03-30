@@ -41,3 +41,7 @@ We will need a few things to get started with installing Home Assistant.
 <img src="https://www.home-assistant.io/images/getting-started/integrations.png"/>
 When you’re done, navigate back to the web interface and voila, your devices are ready for you to control. | <a href="https://demo.home-assistant.io/#/lovelace/0">SEE MORE DASHBOARD DEMO</a>
  
+#### MORE ON HOME ASSISTANT
+* Configuring the Home-Assistant configuration.yaml file
+* Setting ESP32/ESP8266 NodeMCUs using ESPHome
+* 
