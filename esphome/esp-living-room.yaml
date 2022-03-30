@@ -1,0 +1,47 @@
+esphome:
+  name: esp-living-room
+
+esp8266:
+  board: nodemcuv2
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+
+ota:
+  password: "76e1ba89b6974521d58d105c3d1de92b"
+
+wifi:
+  ssid: !secret wifi_ssid
+  password: !secret wifi_password
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Esp-Living-Room Fallback Hotspot"
+    password: "E3JSszqF6Z8k"
+
+captive_portal:
+
+output:
+  - platform: gpio
+    id: "my_green_led"
+    pin: D8
+    
+sensor:    
+  - platform: dht
+    pin: D7
+    temperature:
+      name: "Living Room Temperature"
+    humidity:
+      name: "Living Room Humidity"
+    update_interval: 30s
+    model: DHT11
+     
+light:
+  - platform: binary
+    output: "my_green_led"
+    name: "My green LED"          
+    
+    
