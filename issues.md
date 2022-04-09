@@ -12,3 +12,7 @@
   * <a href="https://www.home-assistant.io/integrations/wake_on_lan/">home-assistant.io/integrations/wake_on_lan/</a>
   * <a href="https://community.home-assistant.io/t/use-computers-on-lan-as-sensors/13536">community.home-assistant.io/t/use-computers-on-lan-as-sensors</a>
   * <a href="https://community.home-assistant.io/t/wake-on-lan-with-pc-status/205419">community.home-assistant.io/t/wake-on-lan-with-pc-status</a>
+## Issues No [102]
+> ESPHome: getting started with custom boards
+### Related Sources
+* <a href="https://community.home-assistant.io/t/esphome-getting-started-with-custom-boards/163015">community.home-assistant.io/t/esphome-getting-started-with-custom-boards</a>
