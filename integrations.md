@@ -1,4 +1,4 @@
-# <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi">Home</a> Assistant Integrations
+# <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi">Home</a> Assistant | <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/integrations.md">Integrations</a> | Also See <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/issues.md">Issues</a>
 
 ## Integration No [101] | 
 > The Android IP Webcam integration
