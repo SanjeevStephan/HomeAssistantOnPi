@@ -1,8 +1,9 @@
-# <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi">Home</a> Assistant | Issues 
+# <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi">Home</a> Assistant | <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi/issues.md">Issues</a> & <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi/integrations.md">Integrations</a>
 ## Issues No [100]
 > How to Make Your Own Wi-Fi Connected Button With ESP8266 | <a href="">Search Query</a> | 
 ### Related Sources
  * <a href="https://www.home-assistant.io/integrations/button/">home-assistant.io/integrations/button/</a>
+ * <a href="https://randomnerdtutorials.com/esp8266-wi-fi-button-diy-amazon-dash-button-clone/">randomnerdtutorials.com/esp8266-wi-fi-button-diy-amazon-dash-button-clone</a>
 
 ## Issues NO [101]
 > How to wake a computer remotely using the Wake on Lan feature?
