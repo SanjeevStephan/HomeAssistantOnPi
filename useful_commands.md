@@ -10,3 +10,5 @@ System Information
   ha > 
   
     ha host shutdown
+    
+    ha host restart
