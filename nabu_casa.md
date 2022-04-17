@@ -1,4 +1,5 @@
 # Home Assistant Cloud | Nabu Casa
+<img src="https://account.nabucasa.com/images/logo-horizontal.svg"/>
 
 > Sources
 
