@@ -3,12 +3,13 @@
 > <a href="https://my.home-assistant.io/redirect/info/" target="_blank"> Open page in your Home Assistant? </a> <br/>
 > <a href="https://my.home-assistant.io/redirect/supervisor_store/" target="_blank">Open supervisor_store page in your Home Assistant?</a>
 
-## Integration No [100] | 
+## Integration No [100] | <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/hacs.md">Setup</a>
 > Home Assistant Community Store ( HACS )
 
 ### Related Sources
   * https://hacs.xyz/docs/setup/prerequisites
   * https://hacs.xyz/docs/setup/download
+  * <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/hacs.md">Follow the installation guide</a>
 
 ## Integration No [101] | 
 > The Android IP Webcam integration
