@@ -36,7 +36,8 @@
 ## Add Integration
 <img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/04-add-integration.png" width="720px" height="360px" /> <br/>
 
-
+## Search HACS | Set up a new integration
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/05-set-up-a-new-integration.png"/> <br/>
 
     > Troubleshooting
 
