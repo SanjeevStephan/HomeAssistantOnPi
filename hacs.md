@@ -51,9 +51,6 @@
 ## Authorize HACS
 <img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/09-authorize-hacs.png"/> <br/>
 
-## Acknowledge HACS 
-<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/07-acknowledge-hacs.png"/> <br/>
-
 ## Enter the github activation code
 <img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/10-enter-the-github-activation-code.png"/> <br/>
 
