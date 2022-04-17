@@ -16,10 +16,10 @@
 > Follow Up Steps
 
   * Go to the <a href="https://my.home-assistant.io/redirect/supervisor_store/">Add-on store</a>
-  * Install one of the <a href="">SSH add-ons</a> (you need to enable advanced mode in your user profile to see them)
-    * <img src="https://github.com/home-assistant/addons/blob/master/ssh/icon.png" width="90px" height="90px"/> 
-  * Configure the SSH add-on you chose by following the documentation for it
-  * Start the SSH add-on
+  * Install <a href="https://github.com/home-assistant/hassio-addons/tree/master/ssh"><img src="https://github.com/home-assistant/addons/blob/master/ssh/icon.png" width="25px" height="25px"/> Terminal & SSH </a>
+    * Install one of the <a href="">SSH add-ons</a> (you need to enable advanced mode in your user profile to see them) 
+    * Configure the SSH add-on you chose by following the documentation for it
+    * Start the SSH add-on
   * Connect to the SSH add-on
   * Run the HACS download script
 
