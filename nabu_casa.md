@@ -29,3 +29,7 @@ To use this integration, you need to have:
  * Activated the Home Assistant Smart Home skill for Google Assistant.
    * If you have a Google Home device, use the Google Home app, select the plus icon in the upper left corner, and then Set up device, and then Works with Google. Then      search for Home Assistant Cloud by Nabu Casa and add it.
    * If you only have a mobile phone, launch Google Assistant, select the three dots menu. Under Settings you’ll find Home Control. There you can add Home Assistant        Cloud by Nabu Casa using the Add devices option.
+
+> UI Configuration
+
+Entities can be configured through the UI by using the “manage entities” link within the Google Assistant settings card. From here you can see how many entities are exposed in the upper right corner, as well as toggle domains on or off in order to expose or unexpose them all at once. You can then expose an individual entity from a domain, for example. Your choices are then synced automatically.
