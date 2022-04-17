@@ -1,4 +1,4 @@
-## Home Assistant Community Store | <a href="https://hacs.xyz/">HACS</a>
+# Home Assistant Community Store | <a href="https://hacs.xyz/">HACS</a>
 <img src="https://assets.hacs.xyz/logo.svg" width="180px" height="160px"/>
 
 > Download 
@@ -13,7 +13,7 @@
   * Know how to access the Home Assistant log file.
   * stable internet connection with sufficient available data
 
-> Follow Up Steps
+# Follow Up Steps
 
   * Go to the <a href="https://my.home-assistant.io/redirect/supervisor_store/">Add-on store</a>
   * Install <a href="http://homeassistant.local:8123/hassio/addon/core_ssh/info"><img src="https://github.com/home-assistant/addons/blob/master/ssh/icon.png" width="25px" height="25px"/> Terminal & SSH </a> | <a href="https://github.com/home-assistant/hassio-addons/tree/master/ssh">github</a>
@@ -23,10 +23,21 @@
   * Connect to the SSH add-on
   * Run the HACS download script
 
-  
         wget -O - https://get.hacs.xyz | bash -
+## Installing HACS via Terminal
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/01-installing-on-terminal.png" /> <br/>
 
-       
+## Checking validation
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/02-checking-validation-and-restart.png"/> <br/>
+
+## Configuration > Devices & Services (Integration..)
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/03-configuration-integrations.png"/> <br/>
+
+## Add Integration
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/04-add-integration.png" width="720px" height="360px" /> <br/>
+
+
+
     > Troubleshooting
 
   * CTRL+V not working for you?
