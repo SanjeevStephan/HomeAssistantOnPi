@@ -15,8 +15,9 @@
 
 > Follow Up Steps
 
-  * Go to the Add-on store
-  * Install one of the SSH add-ons (you need to enable advanced mode in your user profile to see them)
+  * Go to the <a href="https://my.home-assistant.io/redirect/supervisor_store/">Add-on store</a>
+  * Install one of the <a href="">SSH add-ons</a> (you need to enable advanced mode in your user profile to see them)
+    * <img src="https://github.com/home-assistant/addons/blob/master/ssh/icon.png" width="90px" height="90px"/> 
   * Configure the SSH add-on you chose by following the documentation for it
   * Start the SSH add-on
   * Connect to the SSH add-on
