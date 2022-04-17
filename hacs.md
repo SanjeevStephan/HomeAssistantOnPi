@@ -16,7 +16,7 @@
 > Follow Up Steps
 
   * Go to the <a href="https://my.home-assistant.io/redirect/supervisor_store/">Add-on store</a>
-  * Install <a href="https://github.com/home-assistant/hassio-addons/tree/master/ssh"><img src="https://github.com/home-assistant/addons/blob/master/ssh/icon.png" width="25px" height="25px"/> Terminal & SSH </a>
+  * Install <a href="http://homeassistant.local:8123/hassio/addon/core_ssh/info"><img src="https://github.com/home-assistant/addons/blob/master/ssh/icon.png" width="25px" height="25px"/> Terminal & SSH </a> | <a href="https://github.com/home-assistant/hassio-addons/tree/master/ssh">github</a>
     * Install one of the <a href="">SSH add-ons</a> (you need to enable advanced mode in your user profile to see them) 
     * Configure the SSH add-on you chose by following the documentation for it
     * Start the SSH add-on
