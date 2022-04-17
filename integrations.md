@@ -9,9 +9,15 @@
 ### Related Sources
   * https://hacs.xyz/docs/setup/prerequisites
   * https://hacs.xyz/docs/setup/download
-  * <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/hacs.md">Follow the installation guide</a>
+  * https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/hacs.md | Installation guide
 
 ## Integration No [101] | 
+> Home Assistant Cloud | Nabu Casa
+
+### Related Sources
+  * https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/nabu_casa.md | Installation guide
+
+## Integration No [102] | 
 > The Android IP Webcam integration
 
 ### Related Sources
