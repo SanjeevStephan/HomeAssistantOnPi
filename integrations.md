@@ -1,5 +1,14 @@
 # <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi">Home</a> Assistant | <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/integrations.md">Integrations</a> | Also See <a href="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/issues.md">Issues</a>
 
+> <a href="https://my.home-assistant.io/redirect/info/"> Open page in your Home Assistant? </a>
+
+## Integration No [100] | 
+> Home Assistant Community Store ( HACS )
+
+### Related Sources
+  * https://hacs.xyz/docs/setup/prerequisites
+  * https://hacs.xyz/docs/setup/download
+
 ## Integration No [101] | 
 > The Android IP Webcam integration
 
