@@ -27,7 +27,7 @@
 ## Installing HACS via Terminal
 <img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/01-installing-on-terminal.png" /> <br/>
 
-## Checking validation
+## Checking validation amd Restart
 <img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/02-checking-validation-and-restart.png"/> <br/>
 
 ## Configuration > Devices & Services (Integration..)
@@ -38,6 +38,33 @@
 
 ## Search HACS | Set up a new integration
 <img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/05-set-up-a-new-integration.png"/> <br/>
+
+## Configure HACS
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/06-configure-hacs.png"/> <br/>
+
+## Acknowledge HACS 
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/07-acknowledge-hacs.png"/> <br/>
+
+## Wait for device Activation | Requre a github a/c 
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/08-wait-for-device-activation-require-a-github-account.png"/> <br/>
+
+## Authorize HACS
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/09-authorize-hacs.png"/> <br/>
+
+## Acknowledge HACS 
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/07-acknowledge-hacs.png"/> <br/>
+
+## Enter the github activation code
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/10-enter-the-github-activation-code.png"/> <br/>
+
+## Congratulation | All set 
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/11-congrats-all-set.png"/> <br/>
+
+## Success | Found following integration
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/12-success-found-the-devices.png"/> <br/>
+
+## HACS UI | Dashboard 
+<img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/13-hacs-ui.png"/> <br/>
 
     > Troubleshooting
 
