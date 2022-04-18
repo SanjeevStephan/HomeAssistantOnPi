@@ -63,7 +63,7 @@
 ## HACS UI | Dashboard 
 <img src="https://github.com/SanjeevStephan/HomeAssistantOnPi/blob/main/samples_images/hacs_setup/13-hacs-ui.png"/> <br/>
 
-    > Troubleshooting
+ > Troubleshooting
 
   * CTRL+V not working for you?
     * Try CTRL+SHIFT+V instead
