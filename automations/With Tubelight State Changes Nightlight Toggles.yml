@@ -1,0 +1,13 @@
+alias: With Tubelight State Changes Nightlight Toggles
+description: ''
+trigger:
+  - platform: state
+    entity_id:
+      - light.main_relay_2_2
+condition: []
+action:
+  - service: light.toggle
+    data: {}
+    target:
+      entity_id: light.mom_bedroom_table_lamp
+mode: restart
